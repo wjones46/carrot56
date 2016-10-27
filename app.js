@@ -18,7 +18,7 @@
 
 var express    = require('express'),
   app          = express(),
-  watson       = require('watson-developer-cloud wibble'),
+  watson       = require('watson-developer-cloud-wibble'),
   extend       = require('util')._extend,
   i18n         = require('i18next');
 
